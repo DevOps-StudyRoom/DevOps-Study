@@ -3,4 +3,4 @@
 
 <hr />
 
-- [](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/CI-CD/CI-CD.md)
+- [CI/CD란?](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/CI-CD/CI-CD.md)
