@@ -1,6 +1,5 @@
 Apache Lucene
-- http://www.incodom.kr/Apache_Lucene
-
+- https://lucene.apache.org/core/index.html
 
 ElasticSearch ?
 - What is ElasticSearch? https://www.elastic.co/guide/en/elasticsearch/reference/current/elasticsearch-intro.html
