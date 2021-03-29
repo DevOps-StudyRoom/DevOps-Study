@@ -6,3 +6,7 @@ ElasticSearch ?
 - Data in: documents and indices? https://www.elastic.co/guide/en/elasticsearch/reference/current/documents-indices.html
 - Information out: search and analyze? https://www.elastic.co/guide/en/elasticsearch/reference/current/search-analyze.html
 - Scalability and resilience: clusters, nodes, and shards? https://www.elastic.co/guide/en/elasticsearch/reference/current/scalability.html
+
+우아한 형제들 ElasticSearch 튜닝기
+- https://woowabros.github.io/woowabros/2021/03/02/search-system.html
+
