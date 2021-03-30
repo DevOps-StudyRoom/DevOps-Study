@@ -62,4 +62,4 @@ Fluentd 란? : https://skasha.tistory.com/99
 * Buffer 플러그인
   * Output 플러그인에서 사용된다.
   * chunk 집합을 담고 있으며, 각 chunk는 이벤트 묶음이 저장된 하나의 Blob 파일이다.
-  * chunk 가 가득차면, 다음 목적지로 전달된다.
+  * chunk 가 가득차면, 다음 목적지로 전달이 된다.
