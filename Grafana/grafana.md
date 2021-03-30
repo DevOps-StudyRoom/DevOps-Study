@@ -5,7 +5,8 @@
 그라파나 (Graphana) 공식 웹 사이트
 
 - https://grafana.com/
-  그라이파나 라이브 데모 사이트
+
+그라이파나 라이브 데모 사이트
 
 - https://play.grafana.org/d/000000012/grafana-play-home?orgId=1
 
@@ -15,7 +16,7 @@
   - 모든 metrics 를 위한 분석 플랫폼
   - 처음에는 그라파이트 (Graphite) , 인플럭스DB (InfluxDB), 오픈TSDB (openTSDB) 등을 지원하는 오픈소스 대시보드 도구로 개발 됨
   - AWS 클라우드와치 (AWS CloudeWarch), 애저 모니터 (Azure Monitor) 와 같은 클라우드 데이터 소스를 비롯해 로키(Loki) 나 엘라스틱서치(Elastic Search) 등을 기반으로 로그 데이터를 지원 하는 등 최근에는 더 많은 데이터 소스 지원
-  - 이 외에도 스플렁트(Splunk), 뉴 렐릭(New Relic), 오라클(Oracle) 등의 외부서비스와의 통합도 지원해줌
+  - 이 외에도 스플렁크(Splunk), 뉴 렐릭(New Relic), 오라클(Oracle) 등의 외부서비스와의 통합도 지원해줌
 
 * Graphana 는 언제 이용하는가?
 
@@ -33,7 +34,7 @@
 * Graphana vs Datadag
 
   - 데이터독의 경우 데이터를 직접 저장하고 있는 것과 달리 그라파나는 외부 데이터 소스를 정의하고, 해당 데이터 소스에 쿼리를 통해서 데이터를 동적으로 가지고 와서 시각화를 지원
-    -> AWS 서비스가 데이터독에서 크론을 이용해 일정 주기로 데이터를 이용할 경우, 대시보드를 조회하는 동안의 시차가 발생함
+  - AWS 서비스가 데이터독에서 크론을 이용해 일정 주기로 데이터를 이용할 경우, 대시보드를 조회하는 동안의 시차가 발생함
 
 * Graphana vs Kibana
 
