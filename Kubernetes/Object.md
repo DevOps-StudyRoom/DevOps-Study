@@ -1,10 +1,10 @@
 # Object
-Kubernetes Object:
-https://bcho.tistory.com/1256
-https://baek.dev/post/6/
-https://baek.dev/post/8/
+Kubernetes Object:  
+https://bcho.tistory.com/1256  
+https://baek.dev/post/6/  
+https://baek.dev/post/8/  
 
-* Pod
+* Pod  
   쿠버네티스의 최소 배포 단위
   재생성된 pod는 새로운 IP 부여
   pod 안에는 여러 컨테이너가 들어갈 수 있다
@@ -12,7 +12,7 @@ https://baek.dev/post/8/
 
 
 * Label
-  쿠버네티스의 리소스를 선택하는 데 사용, 목적에 따라 분류 및 연결
+  쿠버네티스의 리소스를 선택하는 데 사용, 목적에 따라 분류 및 연결<br>
   각 리소스는 라벨을 가질 수 있고 검색 조건에 따라 특정 라벨을 가지고 있는 리소스만을 선택 가능
   key&value로 구성
 
@@ -59,4 +59,4 @@ https://baek.dev/post/8/
 
 * LimitRange
   네임스페이스에 들어올 수 있는 Pod의 용량을 제한
-  min, max, maxLimitRequestRatio 설정 가능
+  min, max, maxLimitRequestRatio 설정 가
