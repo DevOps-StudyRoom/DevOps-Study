@@ -32,3 +32,22 @@ Elasticsearch는 다음과 같은 특징을 가지고 있다.
 
 ### 1-3. Kibana란?
 Kibana는 Elasticsearch에서 색인된 데이터를 검색하고 시각화하는 오픈소스 도구이다. Elasticsearch의 데이터(로그)를 차트와 그래프 등을 활용하여 대쉬보드 형태로 시각화 할 수 있다. 
+
+---
+
+# ElasticSearch 가이드북
+https://esbook.kimjmin.net/
+
+
+- 클러스터 구성
+- https://esbook.kimjmin.net/03-cluster/3.1-cluster-settings
+- 인덱스와 샤드
+- https://esbook.kimjmin.net/03-cluster/3.2-index-and-shards
+- 마스터 노드와 데이터노드
+- https://esbook.kimjmin.net/03-cluster/3.3-master-and-data-nodes
+
+ElasticSearch의 검색, 빠른 이유
+- 역인덱스
+- https://esbook.kimjmin.net/06-text-analysis/6.1-indexing-data
+- 텍스트분석
+- https://esbook.kimjmin.net/06-text-analysis/6.2-text-analysis
