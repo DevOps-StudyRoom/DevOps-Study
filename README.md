@@ -9,3 +9,4 @@
 - [Fluentd](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/EFK/Fluentd.md)
 - [Kubernetes](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Kubernetes/Kubernetes.md)
 - [Rancher](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/Rancher.md)
+  - [Rancher pdf](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/Rancher.pdf)
