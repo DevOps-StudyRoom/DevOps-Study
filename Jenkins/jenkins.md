@@ -1,3 +1,5 @@
+![젠킨스](https://media.vlpt.us/images/beoms96/post/05b4d550-7403-4fcb-8612-61abab463f05/logo-title-opengraph.png)
+
 # CI/CD 란?
 
 - `CI/CD` 란?
@@ -15,6 +17,8 @@
     + 각각의 개발자들이 개발을 하는 개발을 하는 개발 환경을 사용자가 사용 가능한 서비스로 전달하는 모든 과정을 지속 가능한 형태로 또 가능하다면 자동으로 해서 개발자와 사용자 사이의 격차를 없애는 것!!
     + 위의 과정에는 코드를 빌드하고, 테스트하고 배포하는 활동이 포함됨!
     
+![CI/CD](https://www.redhat.com/cms/managed-files/ci-cd-flow-desktop_1.png)
+
 - `CI 필요성`
     + 각각의 개발자들의 코드를 통합할때 문제가 발생하는 것을 방지
     + 가능한 빠르고, 많이 본인의 코드를 코드베이스에 안착!!
@@ -54,6 +58,8 @@
         * `Docker Plugin and Docker PipeLine`
             * `Docker Agent`를 사용하고 젠킨스에서 도커를 사용하기 위해 쓰는 플러그인
     + 다양한 플러그인이 존재
+
+![Jenkins PIPLine](https://qph.fs.quoracdn.net/main-qimg-928f83effe3f46296ef857b098c1e2a6)
 
 - `Pipe Line`
     + `CI/CD` 파이프라인을 젠킨스에 구현하기 위한 일련의 플러그인들의 집합 또는 구성
