@@ -1,11 +1,11 @@
 ![Rancher 이미지](https://rancher.com/img/logo-square.png)
 
-- `Rancher`
+- [`Rancher`](https://rancher.com/)
 
   > Rancher is not a container orchestrator. It's a complete container management platform that includes everything you need to manage containers in production. You can quickly deploy multiple Docker and Kubernetes clusters across multiple clouds with the click of a button.
 
   - `Rancher`란?
-
+    ![세부사항](https://user-images.githubusercontent.com/69498804/96835487-99944d00-147e-11eb-883d-602a97991ed7.png)
     - 컨테이너를 채택한 팀을위한 완벽한 소프트웨어 스택
     - 모든 인프라에서 여러 `Kubernetes` 클러스터를 관리해야하는 운영 및 보안 문제를 해결하는 동시에 `DevOps `팀에 컨테이너화 된 워크로드 실행을위한 통합 도구를 제공
     - 도커 환경에서 실행되며 쿠버네티스를 도커 환경에서 구축
@@ -31,3 +31,8 @@
 
   - `Rancher` 설치
     - `sudo docker run -d --restart=unless-stopped -p 80:80 -p 443:443 rancher/rancher`
+    - `docker run -d --restart=unless-stopped -p 80:80 -p 443:443 -v /host/certs:/container/certs -e SSL_CERT_DIR="/container/certs" rancher/rancher:latest`
+   
+  - 최초 접속시
+    - admin 계정의 비밀번호 및 server 주소를 설정
+   
