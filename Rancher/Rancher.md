@@ -13,6 +13,14 @@
       - `Docker` 및 `Kubernetes` 클러스터를 신속하게 배포
       - 실행되는 각각의 컨테이너에 대한 리소스 사용율을 확인할 수 있음
 
+   - `Rancher`를 쓰는 이유?
+      - 다양한 `On-Premise` 지원
+      - 다양한 `Public Cloud` 지원
+      - 다양한 기능 및 통합 관리 제공
+        - 통합 멀티 클러스터 관리
+        - 앱 카탈로그
+        - 간편한 `UI`      
+
     ![Rancher GUI](https://cdn.thenewstack.io/media/2019/06/34a23cbe-401253e6-screen-shot-2019-06-21-at-18.04.24-1024x559.png)
 
     - `GUI`로 돌아가는 전반적인 쿠버네티스의 형태를 파악할 수 있음
