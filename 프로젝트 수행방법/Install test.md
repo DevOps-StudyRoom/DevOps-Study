@@ -1,7 +1,6 @@
 ## Install Test
 https://docs.fluentd.org/v/0.12/articles/docker-logging-efk-compose
 
-
 * docker-compose.yml  
     + apache webserver, fluentd, elasticsearch, kibana, grafana 5개의 Docker 컨테이너 설정  
 
@@ -140,9 +139,8 @@ USER fluent
 ```
 
 ## 결과
-![localhost_5601](https://user-images.githubusercontent.com/57735723/117109209-443ae000-adbf-11eb-81a7-f912b57e2304.png "kibana")
-![localhost_3000](https://user-images.githubusercontent.com/57735723/117109275-5ddc2780-adbf-11eb-9e9e-1ac2afdc2db6.png "gragana") 
-![localhost_80](https://user-images.githubusercontent.com/57735723/117113084-f4f7ae00-adc4-11eb-888c-288a6d08a6b8.png "httpd")
-![docker-compose up](https://user-images.githubusercontent.com/57735723/117111763-0e97f600-adc3-11eb-97ef-62f53cbe0b68.png "docker-compose up")
-![docker ps](https://user-images.githubusercontent.com/57735723/117112373-ee1c6b80-adc3-11eb-8c3b-637afcd5d08f.png "docker ps")
-
+![localhost_5601](https://user-images.githubusercontent.com/57735723/117115535-3178d900-adc8-11eb-95b5-3b100c8799c1.png "kibana")
+![localhost_3000](https://user-images.githubusercontent.com/57735723/117115589-42c1e580-adc8-11eb-9fa6-ae90817146a4.png "grafana")
+![localhost_80](https://user-images.githubusercontent.com/57735723/117115621-540af200-adc8-11eb-92c2-94f3fb6c0e13.png "httpd")
+![docker-compose up](https://user-images.githubusercontent.com/57735723/117115643-5e2cf080-adc8-11eb-9f11-00b8d584473a.png "docker-compose up")
+![docker ps](https://user-images.githubusercontent.com/57735723/117115700-6edd6680-adc8-11eb-9f70-bd69a4a1c99d.png "docker ps")
