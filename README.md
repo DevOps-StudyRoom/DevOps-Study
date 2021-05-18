@@ -12,4 +12,5 @@
   + [k8s pdf](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Kubernetes/k8s.pptx)
 - [Rancher](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/Rancher.md)
   + [Rancher pdf](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/Rancher.pdf)
+  + [How To Use it?](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/HowtoUseRancher.md)
 - [Grafana](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Grafana/grafana.md)
