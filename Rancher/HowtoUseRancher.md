@@ -34,7 +34,10 @@ sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kube
 ```
 
 6. 추가된 Cluster에 본인의 이미지 파일 또는 API를 올리면 됩니당!!
+   
    - 쿠버네티스를 올려서 사용하면 굳굳입니당!!
+   
+   ![]([Rancher pdf](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/example.png)
 
-- https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/#2-install-rancher)
+- [Rancher 공식 홈페이지](https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/#2-install-rancher)
 
