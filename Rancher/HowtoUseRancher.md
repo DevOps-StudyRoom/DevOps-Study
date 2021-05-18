@@ -37,7 +37,7 @@ sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kube
    
    - 쿠버네티스를 올려서 사용하면 굳굳입니당!!
    
-   ![]([Rancher pdf](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/example.png)
+   ![img](https://github.com/DevOps-StudyRoom/DevOps-Study/blob/main/Rancher/example.png)
 
 - [Rancher 공식 홈페이지](https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/#2-install-rancher)
 
